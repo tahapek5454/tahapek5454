@@ -7,12 +7,18 @@
 </p>
 -->
 <p align="center">
-<img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="500" height="250">
+<img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" width="500" height="300">
 </p>
+
+
+
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I+am+Taha+Pek;I+am+a+2nd+year+student+of;Computer+Engineering;At+Kocaeli+University.+👋;"></a>
 </p>
+
+
 
 <!--
 
