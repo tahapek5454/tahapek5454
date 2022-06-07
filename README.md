@@ -1,5 +1,15 @@
-### Hi there 👋
 
+![Alt Text](https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif)
+
+
+
+# Hi there I am Taha Pek . I am a 2nd year student of Computer Engineering at Kocaeli University. 👋
+
+
+![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahapek5454&show_icons=true&theme=dark)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahapek5454&layout=compact)](https://github.com/tahapek5454/github-readme-stats)
 <!--
 **tahapek5454/tahapek5454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
