@@ -1,26 +1,33 @@
 
+<!--
+<p align="center">
+
 ![Alt Text](https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif)
 
-
-
-# Hi there I am Taha Pek . I am a 2nd year student of Computer Engineering at Kocaeli University. 👋
-
-
-![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahapek5454&show_icons=true&theme=dark)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahapek5454&layout=compact)](https://github.com/tahapek5454/github-readme-stats)
-<!--
-**tahapek5454/tahapek5454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</p>
 -->
+<p align="center">
+<img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="500" height="250">
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I+am+Taha+Pek;I+am+a+2nd+year+student+of;Computer+Engineering;At+Kocaeli+University.+👋;"></a>
+</p>
+
+<!--
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I+am+Taha+Pek;I+am+a+2nd+year+student+of;Computer+Engineering;At+Kocaeli+University.+👋;)](https://git.io/typing-svg)
+
+-->
+
+
+
+
+  ![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahapek5454&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahapek5454&layout=compact)](https://github.com/tahapek5454/github-readme-stats)
+
+- 🔭 I’m currently working on anything to improve myself
+- 🌱 I’m currently learning big data
+- 💬 Ask me about my projects
+- 📫 How to reach me: tahapek5454@gmail.com
+- [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-pek-413b1b221/) My Linkedin account
+   
