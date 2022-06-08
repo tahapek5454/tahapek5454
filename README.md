@@ -29,7 +29,9 @@
 
 
 
-  ![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahapek5454&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahapek5454&layout=compact)](https://github.com/tahapek5454/github-readme-stats)
+  ![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahapek5454&show_icons=true&theme=dark)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahapek5454&layout=compact)](https://github.com/tahapek5454/github-readme-stats)
 
 - 🔭 I’m currently working on anything to improve myself
 - 🌱 I’m currently learning big data
