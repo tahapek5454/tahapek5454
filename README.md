@@ -36,7 +36,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I+am+Taha+Pek;I+am+a+3rd+year+student+of;Computer+Engineering;At+Kocaeli+University.+👋;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I+am+Taha+Pek;Fullstack+developer+intern+at;Doğuş+Teknoloji;I+am+a+3rd+year+student+of;Computer+Engineering;At+Kocaeli+University.+👋;"></a>
 </p>
 
 
