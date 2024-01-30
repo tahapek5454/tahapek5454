@@ -41,8 +41,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=tahapek5454&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 # 💫 About Me:
-🔭 I’m currently working on Doğuş Teknoloji<br>
-👯 I’m student on Kocaeli University<br>
+🔭 I’m currently working at Doğuş Teknoloji<br>
+👯 I’m student at Kocaeli University<br>
 🌱 I’m currently learning web development and machine learning<br>
 💬 Ask me about everything about me<br>
 📫 How to reach me: tahapek5454@gmail.com <br>
